@@ -27,3 +27,7 @@
 * [Changing The Config](changing-the-config.md)
 * [Installing or Removing Additional Containers](installing-or-removing.md)
 
+## Appendix
+
+* [Glossary](glossary.md)
+
