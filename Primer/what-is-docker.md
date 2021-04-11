@@ -1,1 +1,6 @@
-# Software
+# What is Docker? And why is it better than the old way?
+
+The most basic definition of Docker is that it is a suite of tools that enables a convienient way of running software that is packaged in a self-contained container that can be run on supported computers without having to install all of the software's required packages on the host machine. The person who makes a container will include all necessary libraries and supporting programs in that container so that the container does what it needs to do, and the person running a container doesn't need to worry about making sure every little supporting package is included, with the right versions of everything. The only job of the person running a container is to provide the correct configuration options to the container so that can run properly for your enviornment.
+
+The reason Docker is so useful, and really ideal for running all of these SDR programs, is that it effectively makes your entire SDR stack portable and very easily configurable. In a typical SDR Pi situation if you experience hardware failure such as an SD card giving up the ghost you will spend quite a bit of time, realistically a couple of hours, getting back up to where you were. After flashing an SD card you'll have to go to each feeders website, install everything, make sure configuration files are all set up properly, etc. Using docker and most particuarly docker-compose, after getting a new SD card and flashed with your choice of operating system, you can be back up in a matter of *minutes* instead of hours.
+

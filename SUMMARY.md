@@ -5,7 +5,7 @@
 ## Primer
 
 * [What Is This All About](Primer/what-is-this-all-about.md)
-* [What Is Docker?](Primer/what-is-docker.md)
+* [What is Docker? And why is it better than the old way?](Primer/what-is-docker.md)
 * [What Do I Need To Get Started?](Primer/what-do-i-need-to-get-started.md)
 
 ## Preparation
