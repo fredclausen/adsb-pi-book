@@ -4,9 +4,9 @@
 
 ## Primer
 
-* [What Is This All About](primer/what-is-this-all-about.md)
-* [What Is Docker?](primer/what-is-docker.md)
-* [What Do I Need To Get Started?](primer/what-do-i-need-to-get-started.md)
+* [What Is This All About](Primer/what-is-this-all-about.md)
+* [What Is Docker?](Primer/what-is-docker.md)
+* [What Do I Need To Get Started?](Primer/what-do-i-need-to-get-started.md)
 
 ## Preparation
 
