@@ -22,7 +22,7 @@ Below you can find a list of containers that can currently be installed
 | -------------- | ------------|
 | [ADSB Exchange](https://github.com/mikenye/docker-adsbexchange) | A feeder that connects to `readsb` and feeds data to [ADSB Exchange](www.adsbexchange.com). Will also provide MLAT data. |
 | [ADSB Hub](https://github.com/mikenye/docker-adsbhub) | A feeder that connects to `readsb` and feeds data to [ADSB Hub](www.adsbhub.com) |
-| [Flight Radar 24](https://github.com/mikenye/docker-flightradar24) A feeder that connects to `readsb` and feeds data to [Flight Radar 24](www.flightradar24.com) |
+| [Flight Radar 24](https://github.com/mikenye/docker-flightradar24) | A feeder that connects to `readsb` and feeds data to [Flight Radar 24](www.flightradar24.com) |
 | [OpenSky](https://github.com/mikenye/docker-opensky-network) | A feeder that connects to `readsb` and feeds data to [Opensky](www.opensky-network.com) |
 | [PiAware](https://github.com/mikenye/docker-piaware") | A feeder that connects to `readsb` and optionally `dump978` and feeds data to [Flight Aware](www.flightaware.com). Will also provide MLAT data. |
 | [Plane Finder](https://github.com/mikenye/docker-planefinder) | A feeder that connects to `readsb` and feeds data to [Plane Finder](www.planefinder.net) |
