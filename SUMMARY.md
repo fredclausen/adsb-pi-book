@@ -20,7 +20,8 @@
 * [Other SDR](preparation/other-sdr.md)
 * [Support Containers](preparation/support.md)
 
-## 
+##
+
 * [Gather Information](preparation/gather-information.md)
 
 ## Installation
