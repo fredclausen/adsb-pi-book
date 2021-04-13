@@ -10,4 +10,6 @@ It will download the necessary files and you should be greeted with this screen
 
 (Colors may differ on your system)
 
-![intro](/resources/intro.png "intro")
+![Intro Screen](/resources/intro.png "Intro Screen")
+
+And that's it. The installer is ready to walk you through everything. Hit the `enter` key while `Yes` is highlighted to proceed.
