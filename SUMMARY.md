@@ -26,8 +26,8 @@
 
 ## Installation
 
-* [A Walk Through](walkthrough.md)
-* [Installing Everything](install-everything.md)
+* [A Walk Through](installation/walkthrough.md)
+* [Installing Everything](installation/install-everything.md)
 
 ## Post-Installation
 
