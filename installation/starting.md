@@ -8,4 +8,6 @@ Once you've gathered all the information you need, and have the Pi's hardware an
 
 It will download the necessary files and you should be greeted with this screen
 
-![intro](resources/intro.png "intro")
+(Colors may differ on your system)
+
+![intro](/resources/intro.png "intro")
