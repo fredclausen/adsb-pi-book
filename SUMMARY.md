@@ -29,6 +29,7 @@
 * [A Walk Through](installation/walkthrough.md)
 * [Starting the Installer](installation/starting.md)
 * [Setting Up the System](installation/system-setup.md)
+* [Setting Up RTL-SDRs](installation/rtl-sdr.md)
 
 ## Post-Installation
 
