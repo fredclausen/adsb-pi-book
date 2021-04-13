@@ -26,7 +26,7 @@ It is imperitive that each of your SDRs have a unique serial number. Even if you
 
 If you wish to change the serial number of any of your SDRs, please connect ***ONLY ONE SDR*** and select yes. Otherwise, you can select no and proceed.
 
-![Change SDR Serial Selection](/resources/re-serizalize-start.png "Change SDR Serial Selection")
+![Change SDR Serial Selection](/resources/re-serialize-start.png "Change SDR Serial Selection")
 
 ### Changing the Serial
 
