@@ -38,7 +38,7 @@ For best serial number practices it is recommended to give the SDR you intend to
 
 With all of that in mind, please input a serial number and press enter
 
-![Entered Serial Number](/resources/entered-serial.png) "Entered Serial Number")
+![Entered Serial Number](/resources/entered-serial.png "Entered Serial Number")
 
 After you've hit enter some text will scroll up and eventually you should see something like:
 
