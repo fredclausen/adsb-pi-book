@@ -46,7 +46,7 @@ After you've hit enter some text will scroll up and eventually you should see so
 
 What this is showing you is the current SDR's configuration and what it will be changing to. Please pay attention to the `Serial Number` lines in the `Current` and `New` sections. If all looks good, press the `y` key on your keyboard and then enter. That will save the change to the device. Otherwise, if you made a mistake hit `n` and then enter and try again.
 
-After you've saved the changes please disconnect the SDR you have attached to the system. This is necessary so that the RTl-SDR will use the new configuration.
+After you've saved the changes please disconnect the SDR you have attached to the system. This is necessary so that the RTL-SDR will use the new configuration.
 
 If you have any more SDRs you would like to configure please connect it now and hit `Yes` on the screen that pops up, otherwise, hit no and proceed to the next step.
 
