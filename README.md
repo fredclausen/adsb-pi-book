@@ -1,4 +1,4 @@
-# ADSB Pi
+# ![ADSB Pi](/resources/ADSBPi.png)
 
 Welcome to ADSB-Pi!
 
